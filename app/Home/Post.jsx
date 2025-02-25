@@ -5,7 +5,7 @@ function Post() {
   return (
     <div className="bg-[#edf7fa]">
       <Container>
-        <div className="flex flex-col mt-14  py-6 px-4">
+        <div className="flex flex-col pt-14  py-6 px-4">
           <div className="flex flex-col md:flex-row items-start justify-center gap-20">
             <div className="bg-white p-4 h-[350px] lg:h-[300px]">
               <h1 className="md:text-3xl text-xl font-bold max-w-[374px]">
